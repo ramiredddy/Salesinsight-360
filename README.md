@@ -1,6 +1,6 @@
 #  Project : Sales Insights of Data Analysis-AtliQ Hardware
 
-![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
+<img width="780" height="542" alt="image" src="https://github.com/user-attachments/assets/d407c111-abf4-42fb-8536-8c379a131167" />
 
 ## Table of Contents:
 
